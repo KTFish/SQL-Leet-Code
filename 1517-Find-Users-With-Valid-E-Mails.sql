@@ -7,4 +7,4 @@ SELECT
 FROM
     Users
 WHERE
-    REGEXP_LIKE mail LIKE '^[a-z0-9]*@leetcode.com$';
+    REGEXP_LIKE(mail, '^[a-z0-9_.-]*@leetcode[.]com$');

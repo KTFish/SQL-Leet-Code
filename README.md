@@ -10,3 +10,4 @@ Solved problems:
 - [1084. Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/)
 - [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)
 - [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)
+- [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/)
