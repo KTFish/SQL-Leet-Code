@@ -13,3 +13,4 @@ Solved problems:
 - [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/)
 - [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)
 - [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)
+- [1148. Article Views I](https://leetcode.com/problems/article-views-i/)
