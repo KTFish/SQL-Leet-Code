@@ -17,3 +17,4 @@ Solved problems:
 - [1173. Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/)
 - [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
 - [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/)
+- [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)
