@@ -14,3 +14,5 @@ Solved problems:
 - [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)
 - [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/)
 - [1148. Article Views I](https://leetcode.com/problems/article-views-i/)
+- [1173. Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/)
+- [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
