@@ -1,3 +1,6 @@
+-- COALESCE function to handle the case when there are
+-- no matching records in the cte2 CTE (i.e., no attended exams).
+-- This ensures that the output shows 0 for attended_exams instead of NULL.
 WITH cte AS (
     SELECT
         s.student_id,

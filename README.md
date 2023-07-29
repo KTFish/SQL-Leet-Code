@@ -20,3 +20,4 @@ Solved problems:
 - [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)
 - [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)
 - [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/)
+- [1407. Top Travellers](https://leetcode.com/problems/top-travellers/)
