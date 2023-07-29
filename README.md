@@ -21,3 +21,4 @@ Solved problems:
 - [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)
 - [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/)
 - [1407. Top Travellers](https://leetcode.com/problems/top-travellers/)
+- [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
