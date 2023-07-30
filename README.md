@@ -22,3 +22,4 @@ Solved problems:
 - [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/)
 - [1407. Top Travellers](https://leetcode.com/problems/top-travellers/)
 - [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
+- [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)
