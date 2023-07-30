@@ -2,7 +2,7 @@ import os
 
 # Fill this out
 SOURCE = "leet-code"  # Specify the site used (Hacker Rank or Leet Code)
-LINK = r"https://leetcode.com/problems/bank-account-summary-ii/"  # Input link to your problem
+LINK = r"https://leetcode.com/problems/average-time-of-process-per-machine/"  # Input link to your problem
 ID = 1587  # ID of the problem (only for leet code problems)
 
 # Automated file creation...
