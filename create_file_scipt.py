@@ -6,9 +6,9 @@ LINK = r"https://leetcode.com/problems/list-the-products-ordered-in-a-period/"  
 ID = 1327  # ID of the problem (only for leet code problems)
 
 # Automated file creation...
-SQL_FILE_NAME = str(ID) + "-" + LINK.split("/")[4].title()
+SQL_FILE_NAME = LINK.split("/")[4].title()
 SQL_TITLE_NAME = SQL_FILE_NAME.replace("-", " ").title()
-
+SQL_FILE_NAME = str(ID) + "-" + SQL_FILE_NAME
 PATH = f"./{SOURCE}/{SQL_FILE_NAME}.sql"
 README_PATH = f"{SOURCE}/README.md" if SOURCE != "leet-code" else "README.md"
 
@@ -37,7 +37,7 @@ if not os.path.exists(README_PATH):
 # My solution - link to .sql file containing the solution
 with open(README_PATH, "a") as readme:
     readme.write(
-        f"| {ID} | [Link]({LINK}) | {SQL_TITLE_NAME} | [My solution](./{SOURCE}/{SQL_FILE_NAME}.sql) |\n"
+        f"| {ID} |  {SQL_TITLE_NAME} | [Link]({LINK}) | [My solution](./{SOURCE}/{SQL_FILE_NAME}.sql) |\n"
     )
 
 # TODO: Sort markdown table function
