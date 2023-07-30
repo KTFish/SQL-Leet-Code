@@ -1,0 +1,2 @@
+-- 1581-Customer-Who-Visited-But-Did-Not-Make-Any-Transactions
+-- Exercise from: https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/

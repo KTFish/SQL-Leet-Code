@@ -2,8 +2,8 @@ import os
 
 # Fill this out
 SOURCE = "leet-code"  # Specify the site used (Hacker Rank or Leet Code)
-LINK = r"https://leetcode.com/problems/list-the-products-ordered-in-a-period/"  # Input link to your problem
-ID = 1327  # ID of the problem (only for leet code problems)
+LINK = r"https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/"  # Input link to your problem
+ID = 1581  # ID of the problem (only for leet code problems)
 
 # Automated file creation...
 SQL_FILE_NAME = LINK.split("/")[4].title()
