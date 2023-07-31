@@ -31,3 +31,4 @@ Solutions of SQL exercises form [Leet Code](https://leetcode.com).
 | 1661 |  Average Time Of Process Per Machine | [Link](https://leetcode.com/problems/average-time-of-process-per-machine/) | [My solution](./leet-code/1661-Average-Time-Of-Process-Per-Machine.sql) |
 | 1683 |  Invalid Tweets | [Link](https://leetcode.com/problems/invalid-tweets/) | [My solution](./leet-code/1683-Invalid-Tweets.sql) |
 | 1667 |  Fix Names In A Table | [Link](https://leetcode.com/problems/fix-names-in-a-table/) | [My solution](./leet-code/1667-Fix-Names-In-A-Table.sql) |
+| 1693 |  Daily Leads And Partners | [Link](https://leetcode.com/problems/daily-leads-and-partners/) | [My solution](./leet-code/1693-Daily-Leads-And-Partners.sql) |
