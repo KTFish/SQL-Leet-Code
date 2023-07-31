@@ -30,3 +30,4 @@ Solutions of SQL exercises form [Leet Code](https://leetcode.com).
 | 1587       | Bank Account Summary Ii                                | [Link](https://leetcode.com/problems/bank-account-summary-ii/)                                | [My solution](./leet-code/1587-Bank-Account-Summary-Ii.sql)                                |
 | 1661 |  Average Time Of Process Per Machine | [Link](https://leetcode.com/problems/average-time-of-process-per-machine/) | [My solution](./leet-code/1661-Average-Time-Of-Process-Per-Machine.sql) |
 | 1683 |  Invalid Tweets | [Link](https://leetcode.com/problems/invalid-tweets/) | [My solution](./leet-code/1683-Invalid-Tweets.sql) |
+| 1667 |  Fix Names In A Table | [Link](https://leetcode.com/problems/fix-names-in-a-table/) | [My solution](./leet-code/1667-Fix-Names-In-A-Table.sql) |
