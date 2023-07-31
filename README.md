@@ -33,3 +33,4 @@ Solutions of SQL exercises form [Leet Code](https://leetcode.com).
 | 1667 |  Fix Names In A Table | [Link](https://leetcode.com/problems/fix-names-in-a-table/) | [My solution](./leet-code/1667-Fix-Names-In-A-Table.sql) |
 | 1693 |  Daily Leads And Partners | [Link](https://leetcode.com/problems/daily-leads-and-partners/) | [My solution](./leet-code/1693-Daily-Leads-And-Partners.sql) |
 | 1729 |  Find Followers Count | [Link](https://leetcode.com/problems/find-followers-count/) | [My solution](./leet-code/1729-Find-Followers-Count.sql) |
+| 1731 |  The Number Of Employees Which Report To Each Employee | [Link](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | [My solution](./leet-code/1731-The-Number-Of-Employees-Which-Report-To-Each-Employee.sql) |
