@@ -29,3 +29,4 @@ Solutions of SQL exercises form [Leet Code](https://leetcode.com).
 | 1581       | Customer Who Visited But Did Not Make Any Transactions | [Link](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [My solution](./leet-code/1581-Customer-Who-Visited-But-Did-Not-Make-Any-Transactions.sql) |
 | 1587       | Bank Account Summary Ii                                | [Link](https://leetcode.com/problems/bank-account-summary-ii/)                                | [My solution](./leet-code/1587-Bank-Account-Summary-Ii.sql)                                |
 | 1661 |  Average Time Of Process Per Machine | [Link](https://leetcode.com/problems/average-time-of-process-per-machine/) | [My solution](./leet-code/1661-Average-Time-Of-Process-Per-Machine.sql) |
+| 1683 |  Invalid Tweets | [Link](https://leetcode.com/problems/invalid-tweets/) | [My solution](./leet-code/1683-Invalid-Tweets.sql) |
