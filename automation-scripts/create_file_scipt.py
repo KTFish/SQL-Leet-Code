@@ -1,5 +1,6 @@
 import os
-from git import Repo
+
+# from git import Repo
 
 
 def handle_documentation(LINK: str, ID: int, SOURCE: str = "leet-code") -> str:
@@ -41,12 +42,12 @@ def handle_documentation(LINK: str, ID: int, SOURCE: str = "leet-code") -> str:
     # Link - link to the webpage wit the exercise
     # Problem Name - Name of exercise
     # My solution - link to .sql file containing the solution
-    my_solution_path=./{SOURCE}/{SQL_FILE_NAME}.sql
+    my_solution_path = "./{SOURCE}/{SQL_FILE_NAME}.sql"
     with open(README_PATH, "a") as readme:
         readme.write(
             f"| {ID} |  {SQL_TITLE_NAME} | [Link]({LINK}) | [My solution]({my_solution_path}) |\n"
         )
-    
+
     return my_solution_path, SQL_TITLE_NAME
 
 
@@ -66,17 +67,17 @@ def make_commit(
         exercise_source (str): Name of the page from which the exercise was taken (Leet Code, Hacker Rank etc). Defaults to 'Leet Code'
         readme_path (str, optional): Path to readme file. After solving a task there is a need to commit the README file as well because the table is updated. Defaults to 'README.md'.
     """
-    sql_repo = Repo(".")
-    print(sql_repo)
+    # sql_repo = Repo(".")
+    # print(sql_repo)
 
 
 # TODO: Sort markdown table function
 
 # Fill this out
 SOURCE = "leet-code"  # Specify the site used (Hacker Rank or Leet Code)
-LINK = r"https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/"  # Input link to your problem
-ID = 1731  # ID of the problem (only for leet code problems)
+LINK = r"https://leetcode.com/problems/duplicate-emails/"  # Input link to your problem
+ID = 182  # ID of the problem (only for leet code problems)
 
-# sql_file_path, problem_name = handle_documentation(LINK=LINK, ID=ID, str=SOURCE)
-sql_file_path, problem_name = 'path', 'problem_name'
-make_commit(sql_file_path=sql_file_path,problem_id=ID, problem_name=problem_name, readme_path='README.md')
+sql_file_path, problem_name = handle_documentation(LINK=LINK, ID=ID, SOURCE=SOURCE)
+# sql_file_path, problem_name = 'path', 'problem_name'
+# make_commit(sql_file_path=sql_file_path,problem_id=ID, problem_name=problem_name, readme_path='README.md')
