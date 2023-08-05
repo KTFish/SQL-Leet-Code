@@ -36,3 +36,12 @@ Solutions of SQL exercises form [Leet Code](https://leetcode.com).
 | 1731       | The Number Of Employees Which Report To Each Employee  | [Link](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/)  | [My solution](./leet-code/1731-The-Number-Of-Employees-Which-Report-To-Each-Employee.sql)  |
 | 182 |  Duplicate Emails | [Link](https://leetcode.com/problems/duplicate-emails/) | [My solution](./{SOURCE}/{SQL_FILE_NAME}.sql) |
 | 182 |  Duplicate Emails | [Link](https://leetcode.com/problems/duplicate-emails/) | [My solution](./{SOURCE}/{SQL_FILE_NAME}.sql) |
+| 1741 |  Find Total Time Spent By Each Employee | [Link](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [My solution](./{SOURCE}/{SQL_FILE_NAME}.sql) |
+| 1741 |  Find Total Time Spent By Each Employee | [Link](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [My solution](./leet-code/1741-Find-Total-Time-Spent-By-Each-Employee.sql) |
+| 182 |  Duplicate Emails | [Link](https://leetcode.com/problems/duplicate-emails/) | [My solution](./leet-code/182-Duplicate-Emails.sql) |
+| 182 |  Duplicate Emails | [Link](https://leetcode.com/problems/duplicate-emails/) | [My solution](./leet-code/182-Duplicate-Emails.sql) |
+| 1741 |  Find Total Time Spent By Each Employee | [Link](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [My solution](./leet-code/1741-Find-Total-Time-Spent-By-Each-Employee.sql) |
+| 1789 |  Primary Department For Each Employee | [Link](https://leetcode.com/problems/primary-department-for-each-employee/) | [My solution](./leet-code/1789-Primary-Department-For-Each-Employee.sql) |
+| 1795 |  Rearrange Products Table | [Link](https://leetcode.com/problems/rearrange-products-table/) | [My solution](./leet-code/1795-Rearrange-Products-Table.sql) |
+| 1890 |  The Latest Login In 2020 | [Link](https://leetcode.com/problems/the-latest-login-in-2020/) | [My solution](./leet-code/1890-The-Latest-Login-In-2020.sql) |
+| 2356 |  Number Of Unique Subjects Taught By Each Teacher | [Link](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [My solution](./leet-code/2356-Number-Of-Unique-Subjects-Taught-By-Each-Teacher.sql) |
